@@ -1,4 +1,4 @@
-package com.nate_orecchio.fullstackbackend;
+package com.nate_orecchio.fullstackbackend.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
